@@ -4,4 +4,4 @@ It makes use of NLP algorithms for text processing followed by Logistic regressi
 The training dataset used in the program is the twitter samples dataset of NLTK library.
 The program also makes use of stopwords from NLTK and punctuations from the string library.
 The difference in the accuracy of the two ML training algorithms is then visually represented.
-
+Note: This project was completed using the theory taught in Course 1 of the NLP Specialisation by DeepLearning.ai
